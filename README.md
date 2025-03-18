@@ -30,7 +30,7 @@ Add the following to your `build.gradle`:
 
 ```gradle
 dependencies {
-    implementation 'com.webmotech:sinhala-transliterator:1.0.0'
+    implementation 'com.webmotech:sinhala-transliterator:1.1.0'
 }
 ```
 
