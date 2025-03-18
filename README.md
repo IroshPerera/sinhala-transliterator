@@ -20,7 +20,7 @@ Add the following to your `pom.xml`:
 <dependency>
     <groupId>com.webmotech</groupId>
     <artifactId>sinhala-transliterator</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
 </dependency>
 ```
 
