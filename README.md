@@ -18,7 +18,7 @@ Add the following to your `pom.xml`:
 
 ```xml
 <dependency>
-    <groupId>com.webmotech</groupId>
+    <groupId>io.github.iroshperera</groupId>
     <artifactId>sinhala-transliterator</artifactId>
     <version>1.1.0</version>
 </dependency>
